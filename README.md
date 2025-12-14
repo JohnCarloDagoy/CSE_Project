@@ -92,4 +92,4 @@ The following sequence of commands was used to successfully demonstrate all CRUD
 
 ## 👤 Author
 
-* [John Carlo Dagoy]
+* John Carlo Dagoy
